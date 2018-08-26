@@ -11,7 +11,7 @@
       <div class="form-horizontal col-md-4"> 
        
         <div class="form-group">
-            <label>Full name</label>
+            <label>Full the name</label>
             <asp:TextBox CssClass="form-control" ID="txtfullname" runat="server"></asp:TextBox>
         </div>
 
